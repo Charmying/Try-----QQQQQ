@@ -17,3 +17,5 @@ Test
 測試貢獻日曆
 
 Test RRRRR branch push
+
+Test RRRRR branch push (Rebase before pull request)
