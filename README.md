@@ -27,3 +27,7 @@ TestTestTest
 aaa
 
 Test modify commit message
+
+`git commit --amend -m "Try to modify commit message"`
+
+`git push --force`
